@@ -1,0 +1,10 @@
+Transcript
+
+Person: Samurai, Jack #888
+
+Courses: 3
+998 scrum-101 2018-02-05 LSU
+999 mngmnt-101 2018-01-05 SUNO
+997 Agile-101 2017-11-05 UNO
+
+INSERT INTO table_name (per_id, sec_no, complete_date, offered_by, c_code) VALUES (:1 , :2 , Date(:3 ), :4 , :5 )
