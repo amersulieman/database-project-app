@@ -12,7 +12,7 @@ app directory:
     Important:
         The file CommanLineView.java contain the main method to run the program.
         To run the program, complie the java applications using javac -classpath ojdbc8.jar *.java, to include the oracle driver 
-        to run the program use : java -cp ojdbc8.jar CommandLineView
+        to run the program use : java -cp :ojdbc8.jar: CommandLineView
         Then your program will run and ask you for inputs on the queries 
 ---------------------------------------------------------------
         
